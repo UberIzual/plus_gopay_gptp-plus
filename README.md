@@ -10,7 +10,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-1.59-2EAD33?logo=playwright&logoColor=white)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 
-仓库：<https://github.com/432539/plus_gopay_gptp-plus>
 
 ---
 
