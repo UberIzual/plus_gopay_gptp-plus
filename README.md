@@ -308,12 +308,3 @@ A: 这两个是子进程文件，每次任务 `fork` 时重新加载；只有 `s
 
 ---
 
-## 赞赏 / Sponsor
-
-如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
-
-<p align="center">
-  <img src="docs/images/sponsor.png" alt="赞赏码" width="240" />
-</p>
-
-> 把你的赞赏码图片保存到 `docs/images/sponsor.png` 即可显示。
